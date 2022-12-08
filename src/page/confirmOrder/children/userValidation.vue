@@ -113,7 +113,7 @@
 </script>
   
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
   
     .validation_page{
         position: fixed;

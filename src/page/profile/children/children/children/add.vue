@@ -160,7 +160,7 @@
 </script>
   
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
   	.router-slid-enter-active, .router-slid-leave-active {
   	    transition: all .4s;
   	}

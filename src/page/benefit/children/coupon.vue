@@ -39,7 +39,7 @@
 </script>
   
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
   
     .page{
         position: fixed;

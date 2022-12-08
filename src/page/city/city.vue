@@ -112,7 +112,7 @@
 </script>
 
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
     .city_container{
         padding-top: 2.35rem;
     }

@@ -705,7 +705,7 @@
 </script>
 
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
     @keyframes mymove{
        0%   { transform: scale(1) }
        25%  { transform: scale(.8) }
@@ -1405,7 +1405,7 @@
                                 display: flex;
                                 align-items: center;
                                 .time_spent_desc{
-                                    @include sc(.55rem, #666)
+                                    @include sc(.55rem, #666);
                                     margin-left: .15rem;
                                 }
                             }

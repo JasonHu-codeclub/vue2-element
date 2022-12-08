@@ -133,7 +133,7 @@
 </script>
   
 <style lang="scss" scoped>
-    @import 'src/style/mixin';
+    @import 'src/style/mixin.scss';
     
     .order_page{
         background-color: #f1f1f1;
